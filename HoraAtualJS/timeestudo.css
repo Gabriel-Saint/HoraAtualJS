@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(108, 86, 143);
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    max-width: 640px;
+    margin: 50px auto;
+    background: #fff;
+    background-color: rgba(255, 255, 255, 0.336);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
